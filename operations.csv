@@ -1,0 +1,15 @@
+op_id,operation_name,smv_minutes,min_grade
+O1,Front panel attach,0.7,C
+O2,Back panel attach,0.7,C
+O3,Shoulder join,0.5,B
+O4,Neck rib attach,0.6,B
+O5,Sleeve attach L,0.5,B
+O6,Sleeve attach R,0.5,B
+O7,Side seam close,1.5,B
+O8,Bottom hem,0.4,C
+O9,Label attach,0.2,D
+O10,Button attach,0.4,C
+O11,Buttonhole,0.6,B
+O12,Final topstitch,1.8,B
+O13,Pressing,1.0,C
+O14,Final QA,0.6,C
