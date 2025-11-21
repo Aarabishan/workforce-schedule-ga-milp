@@ -6,7 +6,7 @@ ompare a Genetic Algorithm (GA) against a Mixed-Integer Linear Program (MILP) (P
 Key result (equal 60 s):
 
 - GA: 320.0 finished pieces (target 288 met)
-
+  
 - MILP (CBC): 394.29 finished pieces (time-limited feasible incumbent)
 
 ## 🎯 1. Problem Overview
