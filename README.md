@@ -18,4 +18,3 @@ Key result (equal 60 s):
 - Rates: Operator-operation rates derived as rate = 60 / SMV × speed_multiplier.
 
 - Target: 288 pieces/day (takt ≈ 36 pcs/hour).
-
