@@ -102,3 +102,5 @@ Hourly profile (MILP): back-loaded finishing with spikes at hours ~6–7, reflec
 - Solver: PuLP 3.3.0 with CBC.
 - Python: NumPy, Pandas, Matplotlib.
 - This repository is for MSc coursework; data are illustrative.
+
+🎓 Acadamice context: This repository documents one of the applied projects completed for the Machine Learning module in my MSc in Data Science programme (Octorber 2025). All results, code, and design choices are provided for educational purposes; actual performance may vary across environments and dataset revisions.
