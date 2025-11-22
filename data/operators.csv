@@ -1,0 +1,11 @@
+operator_id,grade,speed_mult
+OP01,A,1.1
+OP02,A,1.1
+OP03,B,1.0
+OP04,B,1.0
+OP05,B,1.0
+OP06,C,0.95
+OP07,C,0.95
+OP08,C,0.95
+OP09,D,0.9
+OP10,D,0.9
