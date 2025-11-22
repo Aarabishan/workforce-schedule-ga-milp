@@ -1,0 +1,4 @@
+Status: Not Solved
+Solve time (s): 59.998
+Objective: 394.29
+Finished pieces at final: 394.29

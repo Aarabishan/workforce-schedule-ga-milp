@@ -1,0 +1,11 @@
+,H1,H2,H3,H4,H5,H6,H7,H8
+OP01,Back panel attach,Side seam close,Side seam close,Side seam close,Side seam close,Final topstitch,Final topstitch,Final topstitch
+OP02,Sleeve attach L,Sleeve attach L,Side seam close,Sleeve attach R,Bottom hem,Final topstitch,Pressing,Pressing
+OP03,Neck rib attach,Shoulder join,Shoulder join,Sleeve attach L,Side seam close,Buttonhole,Final topstitch,Final topstitch
+OP04,Shoulder join,Sleeve attach R,Neck rib attach,Side seam close,Sleeve attach L,Final topstitch,Final topstitch,Final QA
+OP05,Sleeve attach R,Neck rib attach,Back panel attach,Sleeve attach R,Sleeve attach L,Buttonhole,Buttonhole,Final topstitch
+OP06,Front panel attach,Back panel attach,Button attach,Bottom hem,Bottom hem,Final QA,Final QA,Pressing
+OP07,Front panel attach,Front panel attach,Back panel attach,Pressing,Button attach,Pressing,Final QA,Final QA
+OP08,Back panel attach,Front panel attach,Front panel attach,Label attach,Button attach,Pressing,Button attach,Pressing
+OP09,Label attach,Label attach,Label attach,Label attach,Label attach,Label attach,Label attach,Label attach
+OP10,Label attach,Label attach,Label attach,Label attach,Label attach,Label attach,Label attach,Label attach
